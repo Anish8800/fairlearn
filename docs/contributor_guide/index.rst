@@ -14,7 +14,6 @@ The contribution guide explains how to structure your contributions. Please
 
    ways_to_contribute
    how_to_talk_about_fairness
-   fairlearn_repository_overview
    development_process
    contributing_code
    code_style
@@ -50,3 +49,4 @@ invitation to you.
 We keep notes from each meeting in our
 `HackMD <https://hackmd.io/@Pu3O7yQTSFivjWn2cXCgFg/BkxG0KgrJl>`_.
 The 2020-2021 notes can be found `here <https://hackmd.io/QcJ8WBAbQTq6iOgoi0JT4g>`_.
+
