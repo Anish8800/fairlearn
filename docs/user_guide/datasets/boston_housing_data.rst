@@ -62,7 +62,7 @@ techniques.
 It's featured in `scipy lectures <https://scipy-lectures.org/packages/scikit-learn/auto_examples/plot_boston_prediction.html>`_,
 indexed in the `University of California-Irvine Machine Learning Repository
 <https://archive.ics.uci.edu/ml/machine-learning-databases/housing/>`_ and in
-Carnegie Mellon University's `StatLib <http://lib.stat.cmu.edu/datasets/boston>`_,
+Carnegie Mellon University's `StatLib <https://lib.stat.cmu.edu/datasets/boston>`_,
 and for a time was included as one of scikit-learn's and tensorflow's standard toy datasets
 (see :mod:`tf.keras.datasets.boston_housing`).
 It has also been the benchmark of choice for many machine learning
